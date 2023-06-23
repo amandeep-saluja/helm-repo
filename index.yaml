@@ -3,7 +3,7 @@ entries:
   git1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-23T09:32:35.484793347Z"
+    created: "2023-06-23T10:08:43.020007925Z"
     description: A Helm chart for Kubernetes
     digest: 8ce0fdd2ca866edd0eb1b4fecfc9f1cc253590b13617f9f9b0b86142f347b8f8
     name: git1
@@ -14,12 +14,12 @@ entries:
   git2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-23T09:32:35.485324612Z"
+    created: "2023-06-23T10:08:43.020550742Z"
     description: A Helm chart for Kubernetes
-    digest: 5b0a792a38142407dcaaa6685eb07b5198c68cdcdbf48d1650a0bc166dcb9aa0
+    digest: b0b5375126ad11d943620770d94b466fa5a47b14921cdb0389d2d982f4a1c7fa
     name: git2
     type: application
     urls:
     - git2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-23T09:32:35.484102602Z"
+generated: "2023-06-23T10:08:43.01930201Z"
