@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  git1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-23T08:56:40.743401829Z"
+    description: A Helm chart for Kubernetes
+    digest: 1dd97cd26725bb693ff66905eff2e1c624cc1af1f4e0198b0c0ac42a4f82d092
+    name: git1
+    type: application
+    urls:
+    - git1-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-23T08:56:40.742546454Z"
